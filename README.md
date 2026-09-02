@@ -6,11 +6,13 @@
 
 ## 直接玩
 
-網址（啟用 GitHub Pages 後）：
-
 https://cyclone-tw.github.io/udl-vocab-play/
 
-教師列印頁：同一個網站打開後點「列印 QR」，用手機相機掃。
+掃這個 QR 也會打開同一頁：
+
+![掃 QR 開始玩](assets/qr.png)
+
+教師也可以在網站裡點「列印 QR」，印出來貼教室。
 
 本站只放生字與語詞練習，**不放課文**。
 
