@@ -1,0 +1,45 @@
+{
+  "id": "nan3a-01",
+  "title": "你好，新朋友",
+  "author": "翁士行",
+  "align": {
+    "publisher": "南一",
+    "year": "115",
+    "grade": 3,
+    "semester": "上",
+    "lesson": 1,
+    "note": "只收習寫生字與本課語詞，不收課文原句"
+  },
+  "vocab": [
+    { "key": "ni", "word": "泥", "zhuyin": "ㄋㄧˊ", "mean": "泥土的泥，地上軟軟的土" },
+    { "key": "hua", "word": "化", "zhuyin": "ㄏㄨㄚˋ", "mean": "變成" },
+    { "key": "que", "word": "雀", "zhuyin": "ㄑㄩㄝˋ", "mean": "小雲雀的雀，一種會唱歌的鳥" },
+    { "key": "qing", "word": "輕", "zhuyin": "ㄑㄧㄥ", "mean": "不重、輕快" },
+    { "key": "yu", "word": "羽", "zhuyin": "ㄩˇ", "mean": "羽毛的羽" },
+    { "key": "yi", "word": "衣", "zhuyin": "ㄧ", "mean": "衣服的衣" },
+    { "key": "cui", "word": "脆", "zhuyin": "ㄘㄨㄟˋ", "mean": "清脆的脆，聲音又亮又好聽" },
+    { "key": "fa", "word": "髮", "zhuyin": "ㄈㄚˇ", "mean": "頭髮的髮" },
+    { "key": "chu", "word": "處", "zhuyin": "ㄔㄨˋ", "mean": "四處的處，很多地方" },
+    { "key": "lu", "word": "旅", "zhuyin": "ㄌㄩˇ", "mean": "旅行的旅" },
+    { "key": "xing", "word": "行", "zhuyin": "ㄒㄧㄥˊ", "mean": "出門、走路" },
+    { "key": "ping", "word": "平", "zhuyin": "ㄆㄧㄥˊ", "mean": "平安的平" },
+    { "key": "nan", "word": "男", "zhuyin": "ㄋㄢˊ", "mean": "男孩的男" },
+    { "key": "lang", "word": "朗", "zhuyin": "ㄌㄤˇ", "mean": "開朗的朗，心情開開的" },
+    { "key": "zu", "word": "足", "zhuyin": "ㄗㄨˊ", "mean": "足球的足，也是腳" }
+  ],
+  "phrases": [
+    { "key": "nitu", "word": "泥土", "zhuyin": "ㄋㄧˊ ㄊㄨˇ", "mean": "地上軟軟的土" },
+    { "key": "huacheng", "word": "化成", "zhuyin": "ㄏㄨㄚˋ ㄔㄥˊ", "mean": "變成另外一種樣子" },
+    { "key": "xiaoyunque", "word": "小雲雀", "zhuyin": "ㄒㄧㄠˇ ㄩㄣˊ ㄑㄩㄝˋ", "mean": "一種會唱歌的小鳥" },
+    { "key": "qingkuai", "word": "輕快", "zhuyin": "ㄑㄧㄥ ㄎㄨㄞˋ", "mean": "輕鬆愉快" },
+    { "key": "yuyi", "word": "羽衣", "zhuyin": "ㄩˇ ㄧ", "mean": "羽毛做的衣服，也指翅膀" },
+    { "key": "qingcui", "word": "清脆", "zhuyin": "ㄑㄧㄥ ㄘㄨㄟˋ", "mean": "聲音又亮又好聽" },
+    { "key": "toufa", "word": "頭髮", "zhuyin": "ㄊㄡˊ ㄈㄚˇ", "mean": "頭上的毛" },
+    { "key": "sichu", "word": "四處", "zhuyin": "ㄙˋ ㄔㄨˋ", "mean": "到處、很多地方" },
+    { "key": "lvxing", "word": "旅行", "zhuyin": "ㄌㄩˇ ㄒㄧㄥˊ", "mean": "出外遊玩" },
+    { "key": "pingan", "word": "平安", "zhuyin": "ㄆㄧㄥˊ ㄢ", "mean": "平平安安，沒有危險" },
+    { "key": "nanhai", "word": "男孩", "zhuyin": "ㄋㄢˊ ㄏㄞˊ", "mean": "小男生" },
+    { "key": "kailang", "word": "開朗", "zhuyin": "ㄎㄞ ㄌㄤˇ", "mean": "心情開開的、樂觀" },
+    { "key": "zuqiu", "word": "足球", "zhuyin": "ㄗㄨˊ ㄑㄧㄡˊ", "mean": "用腳踢球的運動" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "生字語詞練習",
+  "publisher": "南一",
+  "year": "115",
+  "books": [
+    {
+      "id": "nan3a",
+      "label": "三年級上學期",
+      "grade": 3,
+      "semester": "上",
+      "lessons": [
+        { "id": "nan3a-01", "no": 1, "title": "你好，新朋友", "author": "翁士行", "file": "data/lessons/nan3a-01.json", "ready": true },
+        { "id": "nan3a-02", "no": 2, "title": "我們的約定", "author": "阿德蝸", "ready": false },
+        { "id": "nan3a-03", "no": 3, "title": "下課十分鐘", "author": "阿德蝸", "ready": false },
+        { "id": "nan3a-04", "no": 4, "title": "一顆黑點", "author": "", "ready": false },
+        { "id": "nan3a-05", "no": 5, "title": "火大了", "author": "薩芙", "ready": false },
+        { "id": "nan3a-06", "no": 6, "title": "我該怎麼辦", "author": "彭素華", "ready": false },
+        { "id": "nan3a-07", "no": 7, "title": "最年輕的奶奶", "author": "許亞歷", "ready": false },
+        { "id": "nan3a-08", "no": 8, "title": "魔「髮」哥哥", "author": "郭婷", "ready": false },
+        { "id": "nan3a-09", "no": 9, "title": "穿白袍的醫生伯伯", "author": "林芳萍", "ready": false },
+        { "id": "nan3a-10", "no": 10, "title": "唉呀！誤會大了", "author": "李宗怡", "ready": false },
+        { "id": "nan3a-11", "no": 11, "title": "石虎的告白", "author": "吳欣庭", "ready": false },
+        { "id": "nan3a-12", "no": 12, "title": "昆蟲的保命妙招", "author": "李翠玲", "ready": false }
+      ]
+    }
+  ]
+}
