@@ -2,6 +2,12 @@
 
 公開靜態站：南一國語生字語詞練習。掃 QR 就能在手機／平板玩。
 
+<!-- udl-family-block v1 -->
+> **UDL 教學家族**：本 repo 是國語生字語詞配對遊戲（公開，過渡）；平台上線、RPG UI/UX 定案後改成平台裡的一種練習。
+> 上游：教師本機的生字表與語詞解釋（不進 git）、`udl-content-spec`（之後改成內容包時的格式）；下游：學生裝置（目前直接開 GitHub Pages）；之後由 `udl-learning` 平台呈現。
+> 家族地圖正本：`cyclone-tw/udl-learning` 的 `docs/family-map.md`（私人 repo）。要改本 repo 的角色或串接方式，先改地圖。
+<!-- /udl-family-block -->
+
 ## 硬紅線
 
 - 課文 PDF、教師手冊、課文原句不進 git。
